@@ -6,7 +6,7 @@ jobs:
 
     steps:
     - checkout
-    - run: stop
+    - run: ./stop
 
 
 workflows:
