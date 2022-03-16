@@ -1,3 +1,4 @@
 ls
 top
 apt update -y
+apt install git
